@@ -13,7 +13,7 @@ or using Gemfile
 
 ## Usage
 
-There is no "usage", just run your tests as always do, Tuff will know when help you.
+There is no "usage", just run your tests as you always do, Tuff will know when help you.
 
 ## Maintainer
 
