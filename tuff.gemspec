@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Rafael Souza"]
   s.email       = ["me@rafaelss.com"]
   s.homepage    = "http://github.com/rafaelss/tuff"
-  s.summary     = %q{Fast Fail for Test Unit}
-  s.description = %q{Gem that adds same fast fail functionality from rspec to test-unit}
+  s.summary     = %q{Fail-fast for Test Unit}
+  s.description = %q{Gem that adds same fail-fast functionality from rspec to test-unit}
 
   s.add_runtime_dependency "test-unit"
   s.add_development_dependency "minitest", "~> 2.0.2"
