@@ -1,6 +1,6 @@
 ## Tuff
 
-Tuff (**T**est **U**nit **F**ast **F**ail) will stop your test suite as soon as a test fails, helping you to fix broken things quickly.
+Tuff (**T**est **U**nit **F**ail-**f**ast) will stop your test suite as soon as a test fails, helping you to fix broken things quickly.
 It's based on a [RSpec feature](http://jeffkreeftmeijer.com/2010/making-rspec-stop-operation-immediately-after-failing/).
 
 ## Usage
