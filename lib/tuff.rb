@@ -1,0 +1,1 @@
+require "tuff/test_suite"
