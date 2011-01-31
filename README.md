@@ -5,7 +5,9 @@ It's based on a [RSpec feature](http://jeffkreeftmeijer.com/2010/making-rspec-st
 
 ## Installation
 
-    gem install tuff
+    $ gem install tuff
+    
+    require "tuff"
 
 or using Gemfile
 
